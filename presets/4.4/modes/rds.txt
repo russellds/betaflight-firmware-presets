@@ -1,0 +1,30 @@
+#$ TITLE: RDS standard aux configuration (no all-modes-one-channel)
+#$ FIRMWARE_VERSION: 4.3,4.4
+#$ CATEGORY: MODES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS:
+#$ AUTHOR: Russell Slater
+#$ DESCRIPTION: RDS's standard aux configuration with Arm high on Aux 1 for ELRS
+
+#$ INCLUDE: presets/4.4/modes/defaults.txt
+
+aux 0 0 0 1800 2100 0 0
+aux 1 1 1 1350 1650 0 0
+aux 2 13 2 1800 2100 0 0
+aux 3 28 3 900 1300 0 0
+aux 4 35 1 1800 2100 0 0
+aux 5 0 0 900 900 0 0
+aux 6 0 0 900 900 0 0
+aux 7 0 0 900 900 0 0
+aux 8 0 0 900 900 0 0
+aux 9 0 0 900 900 0 0
+aux 10 0 0 900 900 0 0
+aux 11 0 0 900 900 0 0
+aux 12 0 0 900 900 0 0
+aux 13 0 0 900 900 0 0
+aux 14 0 0 900 900 0 0
+aux 15 0 0 900 900 0 0
+aux 16 0 0 900 900 0 0
+aux 17 0 0 900 900 0 0
+aux 18 0 0 900 900 0 0
+aux 19 0 0 900 900 0 0
